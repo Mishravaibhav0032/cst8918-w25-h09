@@ -1,0 +1,24 @@
+{
+  "name": "iac-terraform-aks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mishravaibhav0032/cst8918-w25-h09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mishravaibhav0032/cst8918-w25-h09/issues"
+  },
+  "homepage": "https://github.com/Mishravaibhav0032/cst8918-w25-h09#readme",
+  "description": "",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
